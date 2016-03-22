@@ -1,6 +1,7 @@
 # CLI Utilities
 
 Author:  Samina Qazi
+
 Node.js Assignment 1: CLI (echo, cat, touch, ls, mkdir, rm, ln, grep)
 
 This is a CLI Utilities library for Node.js submitted as [Assignment1](http://courses.codepath.com/courses/nodejs_fast_track/unit/1#!assignment) for CodePath.
