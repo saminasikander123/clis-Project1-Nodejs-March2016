@@ -1,0 +1,24 @@
+#!/usr/bin/env node --harmony --use-strict --harmony_destructuring --harmony_default_parameters
+
+require('./helper')
+let fs = require('fs').promise
+let {data} = require('yargs')
+			.default('data', 'Hello World')
+			.argv
+
+function* echo() {
+    // Use 'yield' in here
+    // Your implementation here
+    // var data = process.argv[2] ? process.argv[2] : 'Default: Hello World'
+    // process.stdout.write(data + '\n')
+    //console.log(data)   
+    // console.log(yield fs.readFile(__filename, console.log))
+}
+
+module.exports = echo
+
+//run(function* echoes() {
+//        console.log(yield echo('this'));
+//        console.log(yield echo('is'));
+//        console.log(yield echo('a test'));
+//    });

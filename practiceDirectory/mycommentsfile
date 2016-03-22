@@ -1,0 +1,18 @@
+My comments
+
+
+1.  echo.js
+//ASK ABOUT THIS
+//run(function* echoes() {
+//        console.log(yield echo('this'));
+//        console.log(yield echo('is'));
+//        console.log(yield echo('a test'));
+//    });
+
+
+2.  cat.js
+
+3.  touch.js
+
+4.  ls.js - ./ls.js ./   (prints node_modules in the first list)
+
