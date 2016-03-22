@@ -17,4 +17,5 @@ Completed:
 
 Walkthrough Gif:
 
-![Video Walkthrough](http://i.imgur.com/PSrDpOY.gif)
+![Video Walkthrough](https://github.com/saminasikander123/clis-Project1-Nodejs-March2016/blob/master/clis_walkthrough.gif)
+![Video Walkthrough](http://i.imgur.com/PSrDpOY.gif
